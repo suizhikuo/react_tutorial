@@ -1,2 +1,5 @@
 .idea
+tic-tac-toe/my-app/build
+tic-tac-toe/my-app/yarn.lock
+tic-tac-toe/my-app/.eslintcache
 
